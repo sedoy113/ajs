@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@sedoy113"
+    "registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "build": "webpack --mode production",
